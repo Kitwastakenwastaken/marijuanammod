@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gbg",
+    "gbg",
+    " g "
+  ],
+  "key": {
+    "b": {
+      "item": "marijuana:bud"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "marijuana:bong"
+  }
+}

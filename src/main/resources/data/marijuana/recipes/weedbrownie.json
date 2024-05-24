@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ses",
+    "bjb",
+    "wmw"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    },
+    "j": {
+      "item": "marijuana:weed"
+    },
+    "e": {
+      "item": "minecraft:egg"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "count": 2,
+  "result": {
+    "item": "marijuana:weedbrownie"
+  }
+}

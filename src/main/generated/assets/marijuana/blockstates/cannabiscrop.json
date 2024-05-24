@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "marijuana:block/cannabiscrop_stage0"
+    },
+    "age=1": {
+      "model": "marijuana:block/cannabiscrop_stage1"
+    },
+    "age=2": {
+      "model": "marijuana:block/cannabiscrop_stage2"
+    },
+    "age=3": {
+      "model": "marijuana:block/cannabiscrop_stage3"
+    },
+    "age=4": {
+      "model": "marijuana:block/cannabiscrop_stage4"
+    },
+    "age=5": {
+      "model": "marijuana:block/cannabiscrop_stage5"
+    },
+    "age=6": {
+      "model": "marijuana:block/cannabiscrop_stage6"
+    },
+    "age=7": {
+      "model": "marijuana:block/cannabiscrop_stage7"
+    }
+  }
+}

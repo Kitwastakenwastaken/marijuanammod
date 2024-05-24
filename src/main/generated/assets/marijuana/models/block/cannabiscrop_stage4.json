@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "marijuana:block/cannabiscrop_stage4"
+  }
+}

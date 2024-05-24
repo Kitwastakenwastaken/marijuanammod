@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "bbb",
+    "ppp"
+  ],
+  "key": {
+    "b": {
+      "item": "marijuana:bud"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "marijuana:blunt"
+  }
+}

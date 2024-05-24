@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "marijuana:weed"
+  },
+  "result": "marijuana:bud",
+  "experience": 1.0,
+  "cookingtime": 100
+}
